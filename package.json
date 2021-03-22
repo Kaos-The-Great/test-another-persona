@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nashville-software-school/coronavirus.git"
+    "url": "git+https://github.com/Kaos-The-Great/test-another-persona.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nashville-software-school/coronavirus/issues"
+    "url": "https://github.com/Kaos-The-Great/test-another-persona/issues"
   },
-  "homepage": "https://github.com/nashville-software-school/coronavirus#readme",
+  "homepage": "https://github.com/Kaos-The-Great/test-another-persona.git#readme",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-modules-commonjs": "^7.9.0",
